@@ -1,4 +1,14 @@
-baseURL = "https://example.com/"
+baseURL = "https://jayward.org/"
+
+[markup.highlight]
+    style = "github-dark"
+
+[params]
+    author = "Jay Ward"
+    info = "Tech Wizardry"
+    
+    enableTwemodi = true
+
 
 [module]
 [module.hugoVersion]
